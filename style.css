@@ -64,7 +64,7 @@ body{
 }
 .slide_next_btn{
     position: absolute;
-    right: 1.5rem;
+    right: 1.3rem;
     top: 47%;
     z-index: 10;
     width: 31px;
